@@ -1,0 +1,285 @@
+Guyright1:
+ .db $0F,$FC
+ .db $0F,$FC
+ .db $04,$08
+ .db $04,$08
+ .db $3F,$FF
+ .db $10,$A8
+ .db $3B,$F8
+ .db $3F,$C8
+ .db $3F,$30
+ .db $1F,$A0
+ .db $1C,$C0
+ .db $07,$C0
+ .db $07,$C0
+ .db $03,$60
+ .db $07,$E0
+ .db $00,$00
+
+ .db $0F,$FC
+ .db $0F,$FC
+ .db $07,$F8
+ .db $04,$08
+ .db $3F,$FF
+ .db $1F,$F8
+ .db $27,$A8
+ .db $2F,$48
+ .db $2F,$30
+ .db $1F,$A0
+ .db $1C,$C0
+ .db $06,$C0
+ .db $07,$40
+ .db $06,$20
+ .db $07,$E0
+ .db $00,$00
+
+GuyRight2:
+ .db $0F,$FC
+ .db $0F,$FC
+ .db $04,$08
+ .db $04,$08
+ .db $3F,$FF
+ .db $10,$A8
+ .db $3B,$F8
+ .db $3F,$C8
+ .db $3F,$30
+ .db $1F,$A0
+ .db $1C,$C0
+ .db $0F,$F8
+ .db $17,$EC
+ .db $12,$68
+ .db $0C,$30
+ .db $00,$00
+
+ .db $0F,$FC
+ .db $0F,$FC
+ .db $07,$F8
+ .db $04,$08
+ .db $3F,$FF
+ .db $1F,$F8
+ .db $27,$A8
+ .db $2F,$48
+ .db $2F,$30
+ .db $1F,$A0
+ .db $1C,$C0
+ .db $0E,$F8
+ .db $1F,$FC
+ .db $1E,$58
+ .db $0C,$30
+ .db $00,$00
+
+GuyDown1:
+ .db $3F,$F0
+ .db $1F,$E0
+ .db $1F,$E0
+ .db $17,$A0
+ .db $3F,$F8
+ .db $0F,$F0
+ .db $08,$48
+ .db $10,$38
+ .db $3C,$78
+ .db $3D,$78
+ .db $3C,$70
+ .db $0E,$C0
+ .db $0F,$C0
+ .db $03,$C0
+ .db $03,$00
+ .db $00,$00
+
+ .db $3F,$F0
+ .db $3F,$F0
+ .db $1F,$E0
+ .db $18,$60
+ .db $FF,$FC
+ .db $3C,$C8
+ .db $74,$A4
+ .db $78,$74
+ .db $3F,$F8
+ .db $7C,$7C
+ .db $7D,$72
+ .db $9F,$EC
+ .db $6F,$C0
+ .db $0F,$C0
+ .db $06,$C0
+ .db $01,$80
+
+GuyDown2:
+ .db $0F,$FC
+ .db $07,$F8
+ .db $07,$F8
+ .db $05,$E8
+ .db $1F,$FC
+ .db $0F,$F0
+ .db $12,$10
+ .db $1C,$08
+ .db $1E,$3C
+ .db $1E,$BC
+ .db $0E,$3C
+ .db $03,$70
+ .db $03,$F0
+ .db $03,$C0
+ .db $00,$C0
+ .db $00,$00
+
+ .db $0F,$FC
+ .db $0F,$FC
+ .db $07,$F8
+ .db $06,$18
+ .db $3F,$FF
+ .db $13,$3C
+ .db $25,$2E
+ .db $2E,$1E
+ .db $1F,$FC
+ .db $3E,$3E
+ .db $4E,$BE
+ .db $37,$F9
+ .db $03,$F6
+ .db $03,$F0
+ .db $03,$60
+ .db $01,$80
+
+GuyLeft1:
+
+ .db $3F,$F0
+ .db $3F,$F0
+ .db $10,$20
+ .db $10,$20
+ .db $FF,$FC
+ .db $1D,$88
+ .db $1F,$DC
+ .db $13,$FC
+ .db $0D,$FC
+ .db $05,$F8
+ .db $03,$38
+ .db $03,$E0
+ .db $03,$E0
+ .db $07,$C0
+ .db $07,$E0
+ .db $00,$00
+
+
+ .db $3F,$F0
+ .db $3F,$F0
+ .db $1F,$E0
+ .db $10,$20
+ .db $FF,$FC
+ .db $1F,$F8
+ .db $15,$E4
+ .db $12,$F4
+ .db $0C,$F4
+ .db $05,$F8
+ .db $03,$38
+ .db $03,$60
+ .db $02,$E0
+ .db $04,$60
+ .db $07,$E0
+ .db $00,$00
+
+GuyLeft2:
+
+ .db $3F,$F0
+ .db $3F,$F0
+ .db $10,$20
+ .db $10,$20
+ .db $FF,$FC
+ .db $15,$08
+ .db $1F,$DC
+ .db $13,$FC
+ .db $0D,$FC
+ .db $05,$F8
+ .db $03,$38
+ .db $1F,$F0
+ .db $37,$E8
+ .db $16,$48
+ .db $0C,$30
+ .db $00,$00
+
+ .db $3F,$F0
+ .db $3F,$F0
+ .db $1F,$E0
+ .db $10,$20
+ .db $FF,$FC
+ .db $1F,$F8
+ .db $15,$E4
+ .db $12,$F4
+ .db $0C,$F4
+ .db $05,$F8
+ .db $03,$38
+ .db $1F,$70
+ .db $3F,$F8
+ .db $1A,$78
+ .db $0C,$30
+ .db $00,$00
+
+GuyUp1:
+ .db $3F,$F0
+ .db $3F,$F0
+ .db $1F,$E0
+ .db $17,$A0
+ .db $FF,$FC
+ .db $3F,$F0
+ .db $70,$38
+ .db $79,$78
+ .db $3F,$F8
+ .db $7F,$FC
+ .db $7F,$F0
+ .db $9F,$EC
+ .db $6F,$C0
+ .db $0B,$C0
+ .db $07,$C0
+ .db $01,$80
+
+ .db $3F,$F0
+ .db $3F,$F0
+ .db $1F,$E0
+ .db $18,$60
+ .db $FF,$FC
+ .db $20,$10
+ .db $40,$08
+ .db $40,$08
+ .db $20,$08
+ .db $78,$1C
+ .db $7F,$F2
+ .db $9F,$EC
+ .db $6F,$C0
+ .db $0F,$C0
+ .db $06,$40
+ .db $01,$80
+
+GuyUp2:
+
+ .db $1F,$F8
+ .db $1F,$F8
+ .db $0F,$F0
+ .db $0B,$D0
+ .db $7F,$FE
+ .db $1F,$F8
+ .db $38,$1C
+ .db $3D,$3C
+ .db $3F,$F8
+ .db $7F,$FC
+ .db $1F,$FC
+ .db $6F,$F2
+ .db $07,$EC
+ .db $07,$A0
+ .db $07,$C0
+ .db $03,$00
+
+ .db $1F,$F8
+ .db $1F,$F8
+ .db $0F,$F0
+ .db $0C,$30
+ .db $7F,$FE
+ .db $10,$08
+ .db $20,$04
+ .db $20,$04
+ .db $20,$08
+ .db $70,$3C
+ .db $9F,$FC
+ .db $6F,$F2
+ .db $07,$EC
+ .db $07,$E0
+ .db $04,$C0
+ .db $03,$00
+
+.end
