@@ -1,0 +1,16 @@
+Map1DataStart = $0006
+Special3End = $016e
+Map3count = $0132
+Map2DataEnd = $012d
+Special1 = $00d1
+MAP_HEIGHT_0 = $0008
+Special2End = $012d
+Special2 = $011b
+Map2count = $00dc
+Special3 = $0168
+Map2DataStart = $00d7
+Special1End = $00d7
+Map1count = $000b
+Map3DataEnd = $016e
+Map3DataStart = $012d
+Map1DataEnd = $00d7

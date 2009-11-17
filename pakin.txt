@@ -1,0 +1,128 @@
+::NEW GAME::
+
+Introduction text-
+
+Scavenger hunt-
+	this will display basic map
+	the "crown" will end up in "Owen's Manor", cookies in the bakery, dinosaur in museum
+End of Scavenger hunt-
+	After 2 potions as a reward, the main character sees a girl walking off into the sunset...
+At home - a meal-
+	The meal engine will have refreshing characteristics on the character's power
+	talking at the table (think grandia style)
+Night time-
+	Real quick. Thoughts will go through your head they get shown as white text on black
+
+WAKE UP->outside a little kid runs into you and tells you that owen's manor is on fire!
+
+You head off the screen ::
+
+You notice that a few rebellious soldiers are leaving. They say they're going to pakin to find
+the person who set the place on fire.
+
+You go to the airport and get on a flight to go to pakin as well.
+
+Flight-
+	Look in your bag, find a jewelled ring
+	Meet Kate on the plane -> she joins your squad
+	Kate and you talk a bit
+
+Land at Pakin (a world)-
+Kate says that you can stay at her house for the night ...
+
+Jobs-
+	The next day, you get jobs delivering packages for money - you need cash
+	All through this you talk to kate about stuff
+	1st package: easy difficulty, you deliver it somewhere
+	2nd package: medium difficulty, you deliver a package
+Mystery Man:
+	Man comes asking you to deliver a package.
+	Shortly after entering, dragons come and fight you
+	after fight, the man is dying.
+	He gives you some cash, you take the job
+After you deliver the package-
+	You meet the man's friend. He's fighting the dragons as well
+	But for a different reason.
+	You guys join the group.
+Party-
+	In honor of the man who died, they have a party.
+	You talk and dance with Kate.
+Mission-
+	Main character and Kate talk to the renegades.
+	Renagade recognizes the ring on main character as one of the 4 crystals of pakin
+	The story is explained about how the crystals hold the power of pakin.
+	The rings will always be drawn to the hands of honest people
+	This means that main character is a chosen one for the fight for pakin!
+	Pakin is being taken over by the dragons who are led by a powerful woman.
+	Utilizing the power of the ring, they decide to attack the dragon HQ 
+Night:
+	thoughts about the situation ....
+Mid-night-
+	The dragons attack the renegades ! you wake up and fight.
+	After the fight you see that Kate has been kidnapped
+	How did the dragons find the renegade HQ ?!
+	All the renegades decide to carry on with the attack
+Implement-
+	The renegades attack the dragon HQ
+	After lots of fighting you find out that the leader of the dragons is KATE !!
+Last Fight-
+	After a bit of the fight with Kate there is a cut
+	Suddenly the other crystals combine with your ring
+	Stats raised and health fixed
+	Battle continues
+ENDING-
+	If you beat Kate, you can go back home to "parn" and see your mom
+	Owen from Owen's manor thanks you for your heroics.
+	A message comes from pakin saying that you are a new hero bla bla
+
+ROLL CREDITS
+
+"Pakin"
+
+		Story and Coding:
+          James Rubingh
+
+	     	Graphics:
+	    James Rubingh
+  Several Gameboy Publishers hah!
+
+		 Beta Testers:
+	
+
+
+
+
+
+
+
+Weapons: (swing animation or jab animation)
+  sword -> jab
+  Easton -> swing
+  Spear -> jab
+  Axe -> swing
+
+Magic:
+  Ice 1-3
+  Fire 1-3
+  Heal
+  Time
+
+Magic Beings:
+  Summon Cohen
+  Summon Gregis
+  Summon Shiva
+  Summon Gia
+
+Materia:
+  All
+  Ifrit
+  Shiva
+  Gia
+  Cohen
+  Fire
+  Ice
+  Heal
+  Time
+  DEFup
+  STRup
+  
