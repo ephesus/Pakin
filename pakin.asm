@@ -856,9 +856,9 @@ reset5and6:
  out (6),a
  ret
   
-DivHlByA:       ;who coded this? I have no idea ... I got it from some kid online ...
- ld b,16        ;it's one of the finest routines i've ever seen. I dedicate this next
- ld c,a         ;cigarette to whoever coded this routine
+DivHlByA:
+ ld b,16
+ ld c,a
  xor a
 Div_Loop:
  add hl,hl
