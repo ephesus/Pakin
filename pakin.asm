@@ -8,12 +8,6 @@
 .dw 0c300h,ProgStart,0,ShellTitle
 #include "pakin_routines.h"
 
-;+----------------------------------------------------------------------------------------+
-;|DONT STEAL MY CODE DAMMIT. STEALING IS BAD. AND DONT SELL MY GAME ON EBAY EITHER        |
-;|    This was coded entirely while listening to "Belle and Sebastian", "Nick Drake",     |
-;|      "Forest For the Trees", "the notwist", "coldplay" and "Hooverphonic."             |
-;+----------------------------------------------------------------------------------------+
-
 Buffer1 = $8000
 Buffer2 = $8400
 LevelData = $A800   ;~1000h bytes
